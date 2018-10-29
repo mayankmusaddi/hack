@@ -7,3 +7,4 @@ int main()
 	printf("%d degrees Celsius is %0.1f degrees Fahrenheit\n",c,f);
 	return 0;
 }
+tu chutiya nahi he bhai
